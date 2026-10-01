@@ -2,7 +2,7 @@
   <img src="docs/images/title.png" alt="ITIS ADVENTURE" width="640">
 </h1>
 
-A 2D JavaFX game set in the ITIS E. Fermi school.
+A 2D JavaFX game set in the ITIS E. Fermi school - Mantova.
 Explore the building, find the **10 notebook pages** and reach the exit to win.
 
 > This project was the summer holiday assignment for the **Computer Science**
